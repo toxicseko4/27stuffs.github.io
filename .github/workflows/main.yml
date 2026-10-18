@@ -1,0 +1,4 @@
+- name: Compress Packages index
+        run: |
+          bzip2 -c9 Packages > Packages.bz2
+          xz -c9 Packages > Packages.xz
