@@ -46,7 +46,7 @@ SileoHeader: https://raw.githubusercontent.com/toxicseko4/27stuffs.github.ioio/m
 
 
 Package: com.seko.glassposterbuttons_1.0-1+debug_iphoneos-arm64.deb
-Name: search tab bar
+Name: Glassbuttons
 Version: 1.2.0
 Architecture: iphoneos-arm64
 Description: glass buttons on posterboard
