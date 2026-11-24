@@ -42,3 +42,35 @@ Size: 39600
 Icon: https://raw.githubusercontent.com/toxicseko4/27stuffs.github.io/main/icons/icon-fakeupd.png
 SileoHeader: https://raw.githubusercontent.com/toxicseko4/27stuffs.github.ioio/main/icons/header.png
 
+
+
+
+Package: com.seko.glassposterbuttons_1.0-1+debug_iphoneos-arm64.deb
+Name: search tab bar
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Description: glass buttons on posterboard
+Maintainer: Seko
+Author: Seko
+Section: Tweaks
+Filename: debs/com.seko.glassposterbuttons_1.0-1+debug_iphoneos-arm64.deb
+Size: 39600
+Icon: https://raw.githubusercontent.com/toxicseko4/27stuffs.github.io/main/icons/glassbutton.png
+SileoHeader: https://raw.githubusercontent.com/toxicseko4/27stuffs.github.ioio/main/icons/header.png
+
+
+
+
+
+Package: com.seko.searchsplit_1.0.0-1+debug_iphoneos-arm64.deb
+Name: search tab bar
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Description: separate bar for your fucking search bar
+Maintainer: Seko(taojb)
+Author: Seko(taojb)
+Section: Tweaks
+Filename: debs/com.seko.searchsplit_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 39600
+Icon: https://raw.githubusercontent.com/toxicseko4/27stuffs.github.io/main/icons/separate search.png
+SileoHeader: https://raw.githubusercontent.com/toxicseko4/27stuffs.github.ioio/main/icons/header.png
